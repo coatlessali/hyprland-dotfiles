@@ -1,0 +1,13 @@
+on-notify=exec mpv /home/ali/Music/system/sounds/106.wav --volume=35
+on-button-left=exec mpv /home/ali/Music/system/sounds/104.wav --volume=35 & makoctl invoke -n "$id" default && makoctl dismiss -n "$id"
+on-button-right=exec mpv /home/ali/Music/system/sounds/105.wav --volume=35 & makoctl dismiss -n "$id"
+background-color=#000000
+border-radius=0
+border-color=#ffffff
+border-size=1
+default-timeout=30000
+font=Inconsolata 11
+
+[urgency=high]
+border-color=#ed0261
+

@@ -1,0 +1,23 @@
+# Input Configuration
+
+input {
+	kb_layout = us
+	kb_variant =
+	kb_model =
+	kb_options =
+	kb_rules =
+
+	# Mouse Focuses Window
+	follow_mouse = 1
+
+	touchpad {
+		natural_scroll = no
+	}
+
+	# -1.0 / 1.0
+	sensitivity = 0
+}
+
+gestures {
+	workspace_swipe = off
+}
