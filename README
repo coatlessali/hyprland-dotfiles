@@ -1,1 +1,1 @@
-These are just my personal dotfiles. They depend on hyprland, wofi, waybar, mako, mpv, pavucontrol, and bluetuith. If you're using flatpak, you can create a bash script in your path with the name of the app that runs the app in flatpak.
+These are just my personal dotfiles. They depend on hyprland, hyprpaper, wofi, waybar, mako, mpv, pavucontrol, and bluetuith. If you're using flatpak, you can create a bash script in your path with the name of the app that runs the app in flatpak.
